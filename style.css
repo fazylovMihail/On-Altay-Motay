@@ -80,11 +80,6 @@ body {
     cursor: pointer;
     display: none;
 }
-
-.nav__item>span {
-    margin: 0 5px;
-}
-
 .nav__link:hover {
     text-decoration: underline;
 }
@@ -132,7 +127,9 @@ body {
 .footer__nav {
     list-style-type: none;
     display: flex;
+    flex-wrap: wrap;
     gap: 50px;
+    border: 1px solid white;
 }
 
 /* Напиши код ниже */
