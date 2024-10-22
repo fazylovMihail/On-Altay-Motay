@@ -1,18 +1,18 @@
 @font-face{
     font-family: 'RobotoB';
     src: url('Roboto-Bold.ttf');
-    font-weight: 400;
+    font-weight: 300;
     font-style: bold;
 }
 @font-face{
     font-family: 'RobotoM';
     src: url('Roboto-Medium.ttf');
-    font-weight: 400;
+    font-weight: 300;
     font-style: medium;
 }
 @font-face{
     font-family: 'RobotoR';
     src: url('Roboto-Bold.ttf');
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
 }
